@@ -1,1 +1,1 @@
-# MouseClassServiceCallbackTrick
+# MouseClassServiceCallbackTrick for hardware components
